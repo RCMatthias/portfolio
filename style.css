@@ -9,3 +9,7 @@ html{
     align-content: center;
 }
 
+.projectDiv{
+    background-color: bisque;
+    border-radius: 25%;
+}
