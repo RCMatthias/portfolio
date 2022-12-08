@@ -11,5 +11,8 @@ html{
 
 .projectDiv{
     background-color: bisque;
-    border-radius: 25%;
+    border-radius: 2rem; 
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
